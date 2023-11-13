@@ -1,0 +1,1 @@
+javascript:(function(){let boxes = document.getElementsByClassName("GapBox");for (let i = 0; i < boxes.length; i++) {    let box = boxes[i];    box.value = I[box.name.split("Gap")[1] - 0][1][0];}}())
